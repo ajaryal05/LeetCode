@@ -17,8 +17,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ajaryal05/LeetCode/tree/master/0066-plus-one) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajaryal05/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ajaryal05/LeetCode/tree/master/0066-plus-one) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajaryal05/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajaryal05/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
