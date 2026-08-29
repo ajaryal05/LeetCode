@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ajaryal05/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ajaryal05/LeetCode/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ajaryal05/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
