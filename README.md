@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ajaryal05/LeetCode/tree/master/0066-plus-one) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ajaryal05/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajaryal05/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajaryal05/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ajaryal05/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
