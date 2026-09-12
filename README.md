@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ajaryal05/LeetCode/tree/master/0066-plus-one) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ajaryal05/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajaryal05/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajaryal05/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ajaryal05/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ajaryal05/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ajaryal05/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajaryal05/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajaryal05/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ajaryal05/LeetCode/tree/master/0115-distinct-subsequences) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajaryal05/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
 | ------- |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ajaryal05/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajaryal05/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
