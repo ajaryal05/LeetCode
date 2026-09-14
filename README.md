@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ajaryal05/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/ajaryal05/LeetCode/tree/master/0115-distinct-subsequences) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ajaryal05/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ajaryal05/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ajaryal05/LeetCode/tree/master/0067-add-binary) |
 | [0836-rectangle-overlap](https://github.com/ajaryal05/LeetCode/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/ajaryal05/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ajaryal05/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ajaryal05/LeetCode/tree/master/0836-rectangle-overlap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ajaryal05/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ajaryal05/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
