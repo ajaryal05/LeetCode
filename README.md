@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ajaryal05/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/ajaryal05/LeetCode/tree/master/0115-distinct-subsequences) |
+| [3498-reverse-degree-of-a-string](https://github.com/ajaryal05/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ajaryal05/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -87,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ajaryal05/LeetCode/tree/master/0067-add-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/ajaryal05/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
